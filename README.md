@@ -58,6 +58,7 @@ Diffusion pseudotime trajectory for cells in the dataset.
 <div align="center">
 <br><img src="./plots/pseudotime.png" alt="Pseudotime Analysis" height="250"/>
 </div>
+
 ---
 
 ### Gene Expression vs Diffusion Pseudotime
@@ -80,6 +81,7 @@ GO analysis results for hierarchical clustering groups.
 <div align="center">
 <br><img src="./plots/GO.png" alt="GO Analysis" height="400"/>
 </div>
+
 ---
 
 ## Conclusion
