@@ -27,16 +27,22 @@ Key insights include:
 
 ### UMAP Visualization of Clusters
 This UMAP visualization highlights IVF and NT data, showing clusters of interest (e.g., Cluster 1 and 3).
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PCA clustering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CIARA clustering
-   <br><img src="./plots/IVF_NT.png" alt="PCA" width="575" height="230"/>  <img src="./plots/cluster1_3.png" alt="CIARA" width="368" height="230"/><br>
-
+    <div align="center">
+      <p>PCA clustering</p>
+      <img src="./plots/IVF_NT.png" alt="PCA" width="575" height="230"/>>
+   </div>
+   <div align="center">
+      <p>CIARA clustering</p>
+      <img src="./plots/cluster1_3.png" alt="CIARA" width="368" height="230"/>
+   </div>
 
 ---
 
 ### Top HVGs for Clusters 1 and 3
 Heatmap visualization of the top 10 HVGs in Clusters 1 and 3.
-<br><img src="./plots/HVG.png" alt="HVG Heatmap" height="300"/>
+<div align="center">
+<img src="./plots/HVG.png" alt="HVG Heatmap" height="300"/>
+</div>
 
 ---
 
@@ -49,8 +55,9 @@ Plot of highly localized genes identified in Cluster 3.
 
 ### Diffusion Pseudotime Analysis
 Diffusion pseudotime trajectory for cells in the dataset.
+<div align="center">
 <br><img src="./plots/pseudotime.png" alt="Pseudotime Analysis" height="250"/>
-
+</div>
 ---
 
 ### Gene Expression vs Diffusion Pseudotime
@@ -62,15 +69,17 @@ This plot demonstrates the gene expression trends along the diffusion pseudotime
 
 ### Hierarchical Clustering of Genes
 Hierarchical clustering of identified genes.
+<div align="center">
 <br><img src="./plots/Hierarchical.png" alt="Hierarchical Clustering" height="250"/>
-
+</div>
 
 ---
 
 ### Gene Ontology (GO) Analysis
 GO analysis results for hierarchical clustering groups.
+<div align="center">
 <br><img src="./plots/GO.png" alt="GO Analysis" height="400"/>
-
+</div>
 ---
 
 ## Conclusion
