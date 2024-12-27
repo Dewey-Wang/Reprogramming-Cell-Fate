@@ -28,14 +28,15 @@ Key insights include:
 ### UMAP Visualization of Clusters
 This UMAP visualization highlights IVF and NT data, showing clusters of interest (e.g., Cluster 1 and 3).
 
-![UMAP Visualization](./plots/cluster1_3.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PCA clustering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CIARA clustering
+   <br><img src="./plots/IVF_NT.png" alt="PCA" width="575" height="230"/>  <img src="./plots/cluster1_3.png" alt="CIARA" width="368" height="230"/><br>
+
 
 ---
 
 ### Top HVGs for Clusters 1 and 3
 Heatmap visualization of the top 10 HVGs in Clusters 1 and 3.
-
-![HVG Heatmap](./plots/HVG.png)
+<br><img src="./plots/HVG.png" alt="HVG Heatmap" height="300"/>
 
 ---
 
@@ -48,8 +49,7 @@ Plot of highly localized genes identified in Cluster 3.
 
 ### Diffusion Pseudotime Analysis
 Diffusion pseudotime trajectory for cells in the dataset.
-
-![Pseudotime Analysis](./plots/pseudotime.png)
+<br><img src="./plots/pseudotime.png" alt="Pseudotime Analysis" height="250"/>
 
 ---
 
@@ -62,15 +62,14 @@ This plot demonstrates the gene expression trends along the diffusion pseudotime
 
 ### Hierarchical Clustering of Genes
 Hierarchical clustering of identified genes.
+<br><img src="./plots/Hierarchical.png" alt="Hierarchical Clustering" height="250"/>
 
-![Hierarchical Clustering](./plots/Hierarchical.png)
 
 ---
 
 ### Gene Ontology (GO) Analysis
 GO analysis results for hierarchical clustering groups.
-
-![GO Analysis](./plots/GO.png)
+<br><img src="./plots/GO.png" alt="GO Analysis" height="400"/>
 
 ---
 
