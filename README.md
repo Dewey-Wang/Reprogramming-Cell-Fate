@@ -29,7 +29,7 @@ Key insights include:
 This UMAP visualization highlights IVF and NT data, showing clusters of interest (e.g., Cluster 1 and 3).
     <div align="center">
       <p>PCA clustering</p>
-      <img src="./plots/IVF_NT.png" alt="PCA" width="575" height="230"/>>
+      <img src="./plots/IVF_NT.png" alt="PCA" width="575" height="230"/>
    </div>
    <div align="center">
       <p>CIARA clustering</p>
